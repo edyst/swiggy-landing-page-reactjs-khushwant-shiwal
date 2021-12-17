@@ -1,2 +1,2 @@
-# swiggy-landing-page-reactjs-gauravg411
-swiggy-landing-page-reactjs-gauravg411 created by GitHub Classroom
+# swiggy-landing-page-reactjs-khushwant-shiwal
+swiggy-landing-page-reactjs-khushwant-shiwal created by GitHub Classroom
